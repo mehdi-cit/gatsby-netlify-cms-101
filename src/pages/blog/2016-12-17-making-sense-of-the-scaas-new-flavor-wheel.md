@@ -15,17 +15,83 @@ While this is going to be a big change for professional coffee tasters, it means
 # Orange
 
 # DodgerBlue
+<table>
 
-# MediumSeaGreen
+<tbody>
 
-# Gray
+<tr>
 
-# SlateBlue
+<th>Company</th>
 
-# Violet
+<th>Contact</th>
 
-# LightGray
+<th>Country</th>
 
+</tr>
+
+<tr>
+
+<td>Alfreds Futterkiste</td>
+
+<td>Maria Anders</td>
+
+<td>Germany</td>
+
+</tr>
+
+<tr>
+
+<td>Centro comercial Moctezuma</td>
+
+<td>Francisco Chang</td>
+
+<td>Mexico</td>
+
+</tr>
+
+<tr>
+
+<td>Ernst Handel</td>
+
+<td>Roland Mendel</td>
+
+<td>Austria</td>
+
+</tr>
+
+<tr>
+
+<td>Island Trading</td>
+
+<td>Helen Bennett</td>
+
+<td>UK</td>
+
+</tr>
+
+<tr>
+
+<td>Laughing Bacchus Winecellars</td>
+
+<td>Yoshi Tannamuri</td>
+
+<td>Canada</td>
+
+</tr>
+
+<tr>
+
+<td>Magazzini Alimentari Riuniti</td>
+
+<td>Giovanni Rovelli</td>
+
+<td>Italy</td>
+
+</tr>
+
+</tbody>
+
+</table>
 ## What the updates mean to you
 
 The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
