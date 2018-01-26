@@ -1,14 +1,12 @@
 ---
-templateKey: 'product-page'
+templateKey: product-page
 path: /products
-title: Our Coffee
+title: It's Faster and Easier than you think!
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Stomora Assists small and medium business with finding and implementing the
+  best Software for their exact use case! 
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -39,11 +37,9 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    Stomora Assists small and medium business with finding and implementing the
+    best Software for their exact use case! 
 main:
   heading: Great coffee with no compromises
   description: >
@@ -99,3 +95,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
